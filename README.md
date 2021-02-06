@@ -2,7 +2,8 @@
 
     1. A React and Redux application. 
     2. The application asks for the license plate number.
-    3. When clicked on Send Button the details of the car is displayed and list of images for the car is displayed as a carousal.
+    3. When clicked on Send Button the details of the car is displayed
+        and list of images for the car is displayed as a carousal.
     4. The redux structure is a representation of ducks pattern.
     5. Used styled components for styling
 
