@@ -12,7 +12,7 @@ const ImageDiv = styled.div`
     background-position: center;
     height: 300px;
     text-align: center;
-    opacity: 0.5;
+    
 
     @media (max-width: 768px) {
         height: 250px;
